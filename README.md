@@ -1,2 +1,2 @@
 # RideWise
-Ridewise : predicting Bike-sharing demand Based on weather and urban events
+Ridewise : predicting Bike-sharing demand Based on weather or urban events
